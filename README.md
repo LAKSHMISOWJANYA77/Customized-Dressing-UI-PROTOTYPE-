@@ -19,7 +19,9 @@ The design focuses on:
 - iPhone SE (1st & 2nd Gen)
 - Compatible with small-screen iPhones
 
----
+## 🌐 Live Figma Link
+[🔗 View Full Prototype in Figma](https://www.figma.com/proto/nFDBG3bbwwiTutZ7lWb0JG/Customized-Dressing?node-id=1-226&p=f&m=draw&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A226)  
+
 
 ### 📌 About This Project
 Designed as a **UI/UX concept prototype** for a mobile application that combines creativity and personalization in the fashion industry.  
